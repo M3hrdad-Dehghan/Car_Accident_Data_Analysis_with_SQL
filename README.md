@@ -9,14 +9,15 @@ I used Microsoft SQL Server Management Studio to conduct exploratory data analys
 - Introduction to Project
 - Data
 - Create Database and Tables
-- Question 1
-- Question 2
-- Question 3   
-- Question 4   
-- Question 5   
-- Question 6 
-- Question 7 
-- Question 8
+- Question 1: How many accidents have occurred in urban areas versus rural areas?
+- Question 2: Which day of the week has the highest number of accidents?
+- Question 3: What is the average age of vehicles involved in accidents based on their type?
+- Question 4: Can we identify any trends in accidents based on the age of the vehicles involved?
+- Question 5: Are there any specific weather conditions that contribute to severe accidents?
+- Question 6: Do accidents often involve impacts on the left-hand side of vehicles?
+- Question 7: Are there any relationships between journey purposes and the severity of accidents?
+- Question 8: Calculate the average age of vehicles involved in accidents, considering daylight and point of impact
+
 
 ## Languages / Tools
 
@@ -27,15 +28,15 @@ I used Microsoft SQL Server Management Studio to conduct exploratory data analys
 ## Clone to Repository
 
 ```HTTP
-git clone .........................
+git clone https://github.com/M3hrdad-Dehghan/Car_Accident_Data_Analysis_with_SQL.git
 ```
 
 ```SSH
-.........................
+git@github.com:M3hrdad-Dehghan/Car_Accident_Data_Analysis_with_SQL.git
 ```
 
 ```CLI
-.................................
+gh repo clone M3hrdad-Dehghan/Car_Accident_Data_Analysis_with_SQL
 ```
 
 ## Contact
